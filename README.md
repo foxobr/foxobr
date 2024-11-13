@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭 Atualmente estou trabalhando<br>👯 Estou procurando colaborar<br>🤝 Estou procurando ajuda com JAVA<br>🌱 Atualmente estou aprendendo<br>⚡ faço videos no youtube de minecraft FOXOBR
 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/605885598506418200) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EUSOUFOXO) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@FOXOBR) 
 
 # 💻 Tech Stack:
@@ -12,11 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=foxobr&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=foxobr&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Citação aleatória de desenvolvedor
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=foxobr&icon=2&color=7)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Você pode me ajudar doando
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/donate/?hosted_button_id=N86HC8A7ENKME) 
